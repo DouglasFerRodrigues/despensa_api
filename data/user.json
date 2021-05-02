@@ -1,0 +1,25 @@
+{
+  "nextId": 5,
+  "Users": [
+    {
+      "id": 1,
+      "name": "douglas@gmail.com",
+      "pwd": "1234"
+    },
+    {
+      "id": 2,
+      "name": "carlos@gmail.com",
+      "pwd": "12345"
+    },
+    {
+      "id": 3,
+      "name": "joao@gmail.com",
+      "pwd": "123456"
+    },
+    {
+      "id": 4,
+      "name": "pedro@gmail.com",
+      "pwd": "1234567"
+    }
+  ]
+}
